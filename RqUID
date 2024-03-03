@@ -1,1 +1,4 @@
+import uuid
 
+rquid = uuid.uuid4()
+print(rquid)
